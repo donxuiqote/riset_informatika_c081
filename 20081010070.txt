@@ -1,0 +1,7 @@
+Tugas 1 : Mencari Topik Penelitian
+
+Menentukan 1-3 alternatif topik penelitian yang diminati
+Topik penelitian yang diminati adalah : 1. Pengenalan bahasa isyarat menggunakan pengolahan citra digital
+					2. Penerapan data mining untuk pengelompokan penduduk kurang mampu
+
+
