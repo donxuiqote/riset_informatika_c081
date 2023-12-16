@@ -1,14 +1,11 @@
 <h1> 🔰 &nbsp; RISET INFORMATIKA C081 </h1>
 
-Nama  : Endin Rahmanda <br>
-NPM  : 20081010070 
+<h2> Endin Rahmanda <br>
+ 20081010070  </h2>
 
 
+<h3> &nbsp; Tugas 1 </h3>
 
+<p> Mengeni </p>
 
-
-------------- | -------------
-Nama  | Endin Rahmanda
-NPM  | 20081010070
-
-[a link](https://github.com/donxuiqote/riset_informatika_c081/README.md)
+<h3> Tugas 2 </h3>
