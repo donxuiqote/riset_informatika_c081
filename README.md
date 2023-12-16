@@ -3,7 +3,7 @@
 Nama  : Endin Rahmanda
 NPM  : 20081010070
 <ul>
-  <li> [Tugas 1](https://github.com/donxuiqote/riset_informatika_c081/README.md) </li>
+  <li> <a href="https://github.com/donxuiqote/riset_informatika_c081/README.md"> Tugas 1 </a> </li>
   <li> [Tugas 2](https://github.com/donxuiqote/riset_informatika_c081/README.md) </li>
 </ul>
 
