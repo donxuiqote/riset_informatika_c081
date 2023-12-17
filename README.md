@@ -33,10 +33,4 @@
 <p></p>
 
 <h3 id="dataset"> Dataset </h3>
-<p> <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> LINK </a></p>
-
-
-
-[@preview]([URL](https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb)https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb)
-
-
+<p> <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Dataset </a> </p>
