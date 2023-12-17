@@ -4,7 +4,7 @@
 
 <h3>Nama &nbsp;&nbsp;&nbsp;&nbsp;: Endin Rahmanda <br />
 NPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 20081010070 </h3>
-
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Endin Rahmanda`
 
 <h2> Daftar Isi </h2>
 
