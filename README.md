@@ -32,6 +32,10 @@
 </p>
 
 <h3 id="referensi"> Referensi </h3>
+<ul>
+	<li> <i> Referensi 1 </i> </li>
+	
+</ul>
 <p> </p>
 
 <h3 id="dataset"> Dataset </h3>
