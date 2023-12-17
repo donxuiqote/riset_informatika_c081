@@ -27,13 +27,14 @@
 
 
 <h3 id="data"> Data penelitian </h3>
-<p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja. </p>
+<p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja. 
+<a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Proses data scrapping </a> 
+</p>
 
 <h3 id="referensi"> Referensi </h3>
-<p></p>
+<p> </p>
 
 <h3 id="dataset"> Dataset </h3>
-<p> <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Dataset </a>  </p>
-
-[dataset.csv
-](https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv)https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv
+<p>
+<a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> 
+</p>
