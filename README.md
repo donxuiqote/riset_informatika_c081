@@ -2,6 +2,10 @@
 
 <h2> Analisis sentimen penilaian user pada aplikasi KAI Access menggunakan Python dengan Algoritma SVM, Naive Bayes dan Random Forest  </h2>
 
+<h3> Endin Rahmanda </h3>
+<h3> 20081010070 </h3>
+
+
 <h2> Daftar Isi </h2>
 
 <ol>
