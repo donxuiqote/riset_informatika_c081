@@ -61,6 +61,14 @@
 	</tr>
 </table>
 
+Pada data penelitian juga dilakukan text-processing :
+<ul>
+	<li>Hapus URL / link, hastag, karakter / emoji, tanda baca, spasi </li>
+	<li>Tokenizing</li>
+	<li>Filtering</li>
+	<li>Stopword</li>
+</ul>
+
 </p>
 
 <h3 id="referensi"> Referensi </h3>
