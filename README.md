@@ -1,5 +1,5 @@
 <h1> 🔰 &nbsp; RISET INFORMATIKA C081 </h1>
-<p style="align: center">
+<p align=”center”>
 <img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/c1cea88e-afaf-4d95-9e2c-e312d6a94b90" />
 </p>
 
