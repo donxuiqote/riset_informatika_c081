@@ -33,26 +33,6 @@
 <p></p>
 
 <h3 id="dataset"> Dataset </h3>
-<p> <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Dataset </a> </p>
+<p> <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Dataset </a>  </p>
 
-import pandas as pd
-import numpy as np
-import seaborn as sns
-
-!pip install google-play-scraper
-from google_play_scraper import Sort, reviews
-result, continuation_token = reviews(
-'com.kai.kaiticketing',
-lang='id',
-country='id',
-sort=Sort.MOST_RELEVANT,
-count=10000, # defaults to 100
-filter_score_with=None
-)
-
-data = pd.DataFrame(np.array(result), columns=['review'])
-data = data.join(pd.DataFrame(data.pop('review').tolist()))
-scrappeddata1 = data[['content','score','at']]
-sorteddata = scrappeddata1.sort_values(by='at', ascending=True)
-sorteddata.head()
-     
+dataset.csv
