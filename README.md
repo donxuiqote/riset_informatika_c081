@@ -3,7 +3,7 @@
 <h2> Analisis sentimen penilaian user pada aplikasi KAI Access menggunakan Python dengan Algoritma SVM, Naive Bayes dan Random Forest  </h2>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://lh3.googleusercontent.com/dnFOQqguRQB6G0BVca-YNaPGYDfgTOK3BGvlyOr4s6w-6-U17V2iYnLKmgau865mWOs=s360)https://lh3.googleusercontent.com/dnFOQqguRQB6G0BVca-YNaPGYDfgTOK3BGvlyOr4s6w-6-U17V2iYnLKmgau865mWOs=s360"> 
 </p>
 
 <table border="0">
