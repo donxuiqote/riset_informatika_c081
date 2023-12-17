@@ -38,3 +38,5 @@
 <p>
 <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> 
 </p>
+![Screenshot (318)](https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891)
+
