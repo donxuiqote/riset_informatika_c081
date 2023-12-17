@@ -1,13 +1,9 @@
 <h1> 🔰 &nbsp; RISET INFORMATIKA C081 </h1>
 
-![hustle](https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/34f00829-2d8e-4af4-aa28-7ae4bdd8e70b)
+![judul](https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/34f00829-2d8e-4af4-aa28-7ae4bdd8e70b)
 
 
-
-<h2> Analisis sentimen penilaian user pada aplikasi KAI Access menggunakan Python dengan Algoritma SVM, Naive Bayes dan Random Forest  </h2>
-
-Endin Rahmanda
-20081010070 
+<p> Endin Rahmanda - 20081010070  </p>
 
 <h2> Daftar Isi </h2>
 
