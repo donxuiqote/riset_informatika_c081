@@ -2,9 +2,8 @@
 
 <h2> Analisis sentimen penilaian user pada aplikasi KAI Access menggunakan Python dengan Algoritma SVM, Naive Bayes dan Random Forest  </h2>
 
-<h3>Nama &nbsp;&nbsp;&nbsp;&nbsp;: Endin Rahmanda <br />
-NPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 20081010070 </h3>
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Endin Rahmanda`
+- Endin Rahmanda <br />
++ 20081010070 
 
 <h2> Daftar Isi </h2>
 
