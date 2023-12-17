@@ -32,7 +32,18 @@
 <h3 id="data"> Data penelitian </h3>
 <p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja.
 
-<a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Proses data scrapping </a>. Dari data yang telah discrape, akan diambil content review, score (skala rating 1 - 5), year, month, dan day.
+<a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Proses data scrapping </a>. Dari data yang telah discrape, akan diambil content review, score (skala rating 1 - 5), year, month, dan day, dan menambahkan kolom sentimen dengan kriteria :
+
+<table>
+	<tr>
+		<td>Skor</td>
+		<td>Sentimen</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Negatif</td>
+	</tr>
+</table>
 
 </p>
 
@@ -46,10 +57,8 @@
 <h3 id="dataset"> Dataset </h3>
 <p>
 Dari <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Proses data scrapping </a>, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
+	
 <img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
-
-
-<img src="https://github.com/donxuiqote/riset_informatika_c081/blob/main/images/Screenshot%20(319).png">
 
 <ul>
 	<li>terdapat 6959 data untuk penilaian bintang 1</li>
@@ -59,9 +68,8 @@ Dari <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dat
 	<li>terdapat 317 data untuk penilaian bintang 4</li>
 </ul>
 
+<img src="https://github.com/donxuiqote/riset_informatika_c081/blob/main/images/Screenshot%20(319).png">
 
-Pembersihan data meliputi penghapusan ulasan. 
-Pelabelan data dilakukan dengan sentimen yang negatif adalah -1, netral adalah 0, dan positif adalah 1.
 
 </p>
 
