@@ -49,18 +49,18 @@ Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqo
 
 <h3 id="coding"> Coding </h3>
 <p>
-Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
-<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
+<a href=https://github.com/donxuiqote/riset_informatika_c081/blob/main/coding.ipynb"> Coding </a> menggunakan Jupyter Notebook
 </p>
 
 <h3 id="analisis"> Analisis </h3>
 <p>
-Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
-<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
+Analisis sebagai berikut
+	
+<img src="https://github.com/donxuiqote/riset_informatika_c081/blob/main/images/Screenshot%20(324).png">
 </p>
 
 <h3 id="pendukung"> Gambar Pendukung </h3>
 <p>
 Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
-<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
+<img src="https://github.com/donxuiqote/riset_informatika_c081/blob/main/images/Screenshot%20(324).png">
 </p>
