@@ -1,8 +1,7 @@
 <h1> 🔰 &nbsp; RISET INFORMATIKA C081 </h1>
-<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/c1cea88e-afaf-4d95-9e2c-e312d6a94b90" style="align: center"> </img>
-
-![iy](https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/c1cea88e-afaf-4d95-9e2c-e312d6a94b90)
-
+<p style="align: center">
+<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/c1cea88e-afaf-4d95-9e2c-e312d6a94b90" />
+</p>
 
 <p> Endin Rahmanda - 20081010070  </p>
 
