@@ -1,6 +1,6 @@
 <h1> 🔰 &nbsp; RISET INFORMATIKA C081 </h1>
 
-![judul](https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/34f00829-2d8e-4af4-aa28-7ae4bdd8e70b)
+![iy](https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/c1cea88e-afaf-4d95-9e2c-e312d6a94b90)
 
 
 <p> Endin Rahmanda - 20081010070  </p>
