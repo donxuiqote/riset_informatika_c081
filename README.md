@@ -30,8 +30,10 @@
 
 
 <h3 id="data"> Data penelitian </h3>
-<p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja. 
-<a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Proses data scrapping </a> 
+<p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja.
+
+<a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Proses data scrapping </a>. Dari data yang telah discrape, akan diambil content review, score (skala rating 1 - 5), year, month, dan day.
+
 </p>
 
 <h3 id="referensi"> Referensi </h3>
@@ -43,8 +45,21 @@
 
 <h3 id="dataset"> Dataset </h3>
 <p>
-Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
+Dari <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb"> Proses data scrapping </a>, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
 <img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
+
+
+<img src="https://github.com/donxuiqote/riset_informatika_c081/blob/main/images/Screenshot%20(319).png">
+- terdapat 6959 data untuk penilaian bintang 1
+- terdapat 1386 data untuk penilaian bintang 2
+- terdapat 759 data untuk penilaian bintang 3
+- terdapat 579 data untuk penilaian bintang 5
+- terdapat 317 data untuk penilaian bintang 4
+
+
+Pembersihan data meliputi penghapusan ulasan. 
+Pelabelan data dilakukan dengan sentimen yang negatif adalah -1, netral adalah 0, dan positif adalah 1.
+
 </p>
 
 <h3 id="coding"> Coding </h3>
@@ -54,6 +69,8 @@ Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqo
 
 <h3 id="analisis"> Analisis </h3>
 <p>
+
+ 
 Analisis sebagai berikut
 	
 <img src="https://github.com/donxuiqote/riset_informatika_c081/blob/main/images/Screenshot%20(324).png">
