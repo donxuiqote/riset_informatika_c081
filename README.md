@@ -8,11 +8,11 @@
     <li> <a href="#latar_belakang"> Latar Belakang </a> </li>
     <li> <a href="#metode"> Metode </a> </li>
     <li> <a href="#data"> Data Penelitian </a> </li>
-    <li> <a href="#data"> Referensi </a> </li>
-    <li> <a href="#data"> Dataset </a> </li>
-    <li> Coding </li>
-    <li> Analisis </li>
-    <li> Gambar Pendukung </li>
+    <li> <a href="#referensi"> Referensi </a> </li>
+    <li> <a href="#dataset"> Dataset </a> </li>
+    <li> <a href="#coding"> Coding </a> </li>
+    <li> <a href="#analisis"> Analisis </a> </li>
+    <li> <a href="#pendukung"> Fambar Pendukung </a> </li>
     <li> Mengatasi Error </li>
     <li> Draft Paper Publikasi </li>
 </ol>
@@ -35,6 +35,24 @@
 <p> </p>
 
 <h3 id="dataset"> Dataset </h3>
+<p>
+Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
+<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
+</p>
+
+<h3 id="coding"> Coding </h3>
+<p>
+Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
+<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
+</p>
+
+<h3 id="analisis"> Analisis </h3>
+<p>
+Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
+<img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
+</p>
+
+<h3 id="pendukung"> Gambar Pendukung </h3>
 <p>
 Dari proses data scrapping, dapat diperoleh <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dataset.csv"> Dataset </a> sebagai berikut
 <img src="https://github.com/donxuiqote/riset_informatika_c081/assets/113412835/314215fb-20ff-44fe-a0aa-594b8fc61891"> </img>
