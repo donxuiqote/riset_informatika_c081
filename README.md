@@ -30,10 +30,10 @@
 <p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja. </p>
 
 <h3 id="referensi"> Referensi </h3>
-<p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja. </p>
+<p></p>
 
 <h3 id="dataset"> Dataset </h3>
-<p>Data yang digunakan merupakan data publik yang bersumber dari fitur ulasan pengguna di Google Play Store. Pendekatan kuantitatif dengan mengambil dan mengolah data menggunakan google-play-scraper dngan fungsi reviews() yang akan mengambil data pada aplikasi yang dituju saja. </p>
+<p> </p>
 
 
 
