@@ -43,11 +43,28 @@
 		<td>1</td>
 		<td>Negatif</td>
 	</tr>
+		<tr>
+		<td>2</td>
+		<td>Negatif</td>
+	</tr>
+		<tr>
+		<td>3</td>
+		<td>Netral</td>
+	</tr>
+		<tr>
+		<td>4</td>
+		<td>Positif</td>
+	</tr>
+		<tr>
+		<td>5</td>
+		<td>Positif</td>
+	</tr>
 </table>
 
 </p>
 
 <h3 id="referensi"> Referensi </h3>
+
 <ul>
 	<li> <i> Referensi 1 </i> </li>
 	
