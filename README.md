@@ -50,11 +50,14 @@ Dari <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dat
 
 
 <img src="https://github.com/donxuiqote/riset_informatika_c081/blob/main/images/Screenshot%20(319).png">
-- terdapat 6959 data untuk penilaian bintang 1
-- terdapat 1386 data untuk penilaian bintang 2
-- terdapat 759 data untuk penilaian bintang 3
-- terdapat 579 data untuk penilaian bintang 5
-- terdapat 317 data untuk penilaian bintang 4
+
+<ul>
+	<li>terdapat 6959 data untuk penilaian bintang 1</li>
+	<li>terdapat 1386 data untuk penilaian bintang 2</li>
+	<li>terdapat 759 data untuk penilaian bintang 3</li>
+	<li>terdapat 579 data untuk penilaian bintang 5</li>
+	<li>terdapat 317 data untuk penilaian bintang 4</li>
+</ul>
 
 
 Pembersihan data meliputi penghapusan ulasan. 
