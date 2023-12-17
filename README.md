@@ -37,6 +37,6 @@
 
 
 
-
+[@preview]([URL](https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb)https://github.com/donxuiqote/riset_informatika_c081/blob/main/data_scrapping.ipynb)
 
 
