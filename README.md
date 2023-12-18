@@ -100,7 +100,7 @@ Dari <a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/dat
 
 <h3 id="coding"> Coding </h3>
 <p>
-<a href=https://github.com/donxuiqote/riset_informatika_c081/blob/main/coding.ipynb"> Coding </a> menggunakan Jupyter Notebook
+<a href="https://github.com/donxuiqote/riset_informatika_c081/blob/main/coding.ipynb"> Coding </a> menggunakan Jupyter Notebook
 </p>
 
 <h3 id="analisis"> Analisis </h3>
